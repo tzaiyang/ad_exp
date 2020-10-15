@@ -1,0 +1,10 @@
+/AnomalyDetection_data/UCSD_Anomaly_Dataset_v1p2/UCSDped2/Test/Test001 180 1
+/AnomalyDetection_data/UCSD_Anomaly_Dataset_v1p2/UCSDped2/Test/Test011 180 1
+/AnomalyDetection_data/UCSD_Anomaly_Dataset_v1p2/UCSDped2/Test/Test010 150 1
+/AnomalyDetection_data/UCSD_Anomaly_Dataset_v1p2/UCSDped2/Test/Test007 180 1
+/AnomalyDetection_data/UCSD_Anomaly_Dataset_v1p2/UCSDped2/Test/Test008 180 1
+/AnomalyDetection_data/UCSD_Anomaly_Dataset_v1p2/UCSDped2/Test/Test004 180 1
+/AnomalyDetection_data/UCSD_Anomaly_Dataset_v1p2/UCSDped2/Train/Train009 180 0
+/AnomalyDetection_data/UCSD_Anomaly_Dataset_v1p2/UCSDped2/Train/Train006 150 0
+/AnomalyDetection_data/UCSD_Anomaly_Dataset_v1p2/UCSDped2/Train/Train008 120 0
+/AnomalyDetection_data/UCSD_Anomaly_Dataset_v1p2/UCSDped2/Train/Train002 150 0
